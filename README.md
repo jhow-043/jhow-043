@@ -30,25 +30,6 @@ location: Brazil 🇧🇷
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/jhow-043">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jhow-043&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=9945FF&icon_color=9945FF&text_color=c9d1d9&ring_color=9945FF&rank_icon=percentile&locale=pt-br" />
-  </a>
-  <a href="https://github.com/jhow-043">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhow-043&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=9945FF&text_color=c9d1d9&card_width=320&locale=pt-br" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=jhow-043&hide_border=true&background=0d1117&ring=9945FF&fire=9945FF&currStreakLabel=9945FF&currStreakNum=c9d1d9&sideLabels=c9d1d9&sideNums=c9d1d9&dates=555555&locale=pt_BR" />
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -86,5 +67,6 @@ location: Brazil 🇧🇷
 
 <!-- FOOTER WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:9945FF&height=120&section=footer" />
+
 
 
