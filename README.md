@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:9945FF&height=220&section=header&text=Jonathan%20V%20Reis&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=DevOps%20%7C%20Cloud%20Engineer%20%7C%20AI%20Enthusiast&descSize=18&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:9945FF&height=220&section=header&text=Jonathan%20V%20Reis&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Support%20Analyst%20%7C%20Systems%20Administrator%20%7C%20DevOps%20%7C%20Cloud%20Engineer&descSize=18&descAlignY=55&animation=fadeIn" />
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=9945FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Building+reliable+infrastructure+%F0%9F%9A%80;Turning+coffee+into+pipelines+%E2%98%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=9945FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Support+Analyst+%F0%9F%92%BB;Systems+Administrator+%F0%9F%96%A5%EF%B8%8F;DevOps+%7C+Cloud+Engineer+%F0%9F%9A%80;Building+reliable+infrastructure+%E2%98%95" alt="Typing SVG" />
 </a>
 
 </div>
