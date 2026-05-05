@@ -17,7 +17,7 @@
 ```yaml
 name: Jonathan V Reis
 role: Support Analyst | DevOps & Cloud Enthusiast
-education: Systems Analysis and Development
+education: Systems Analysis and Development | Chemistry (in progress)
 passion: Artificial Intelligence & Automation
 location: Brazil 🇧🇷
 ```
