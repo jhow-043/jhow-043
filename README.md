@@ -129,58 +129,6 @@ DevOps practices, CI/CD, cloud infrastructure and AI-assisted development as par
 
 <br>
 
-## Right now
-
-<div align="center">
-
-<table>
-<tr>
-<td valign="top" align="left">
-
-<img width="290" src="https://img.shields.io/badge/WORKING_WITH-11111B?style=for-the-badge&labelColor=11111B&color=7C3AED" />
-
-<br>
-
-• Systems support  
-• Infrastructure  
-• Containers  
-• Databases  
-• Networking  
-
-</td>
-<td valign="top" align="left">
-
-<img width="290" src="https://img.shields.io/badge/DEVELOPING-11111B?style=for-the-badge&labelColor=11111B&color=A855F7" />
-
-<br>
-
-• DevOps workflows  
-• CI/CD  
-• Cloud infrastructure  
-• Automation  
-• Software engineering  
-
-</td>
-<td valign="top" align="left">
-
-<img width="290" src="https://img.shields.io/badge/EXPLORING-11111B?style=for-the-badge&labelColor=11111B&color=C084FC" />
-
-<br>
-
-• AI-assisted development  
-• Platform engineering  
-• Infrastructure as Code  
-• Observability  
-• Scalable systems  
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
 <div align="center">
 
 ### Knowledge is the only true freedom.
