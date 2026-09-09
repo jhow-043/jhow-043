@@ -34,27 +34,24 @@ Alongside technology, I’m also studying **Chemistry**, which reflects somethin
 
 <br>
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 Education
+### 🎓 Systems Analysis and Development
 
-**Systems Analysis and Development**  
-Graduated
+**Graduated**
 
-**Chemistry**  
-In progress
+Technology degree focused on software development, systems, databases and computing fundamentals.
 
 </td>
 <td width="50%" valign="top">
 
-### ✦ Direction
+### 🧪 Chemistry
 
-**DevOps Engineering**  
-**Cloud Infrastructure**  
-**Automation**  
-**Artificial Intelligence**
+**In progress**
+
+Expanding my academic background through science, experimentation and a deeper understanding of how complex systems behave.
 
 </td>
 </tr>
@@ -98,19 +95,35 @@ DevOps practices, CI/CD, cloud infrastructure and AI-assisted development as par
 
 ### Infrastructure & Operations
 
-<img src="https://skillicons.dev/icons?i=linux,docker,nginx,git,github,githubactions&theme=dark" />
+<img src="https://img.shields.io/badge/Linux-11111b?style=for-the-badge&logo=linux&logoColor=C084FC" />
+<img src="https://img.shields.io/badge/Oracle_Linux-11111b?style=for-the-badge&logo=oracle&logoColor=C084FC" />
+<img src="https://img.shields.io/badge/Windows_Server-11111b?style=for-the-badge&logo=windows11&logoColor=C084FC" />
+<img src="https://img.shields.io/badge/Docker-11111b?style=for-the-badge&logo=docker&logoColor=C084FC" />
+<img src="https://img.shields.io/badge/Nginx-11111b?style=for-the-badge&logo=nginx&logoColor=C084FC" />
+<img src="https://img.shields.io/badge/Tomcat-11111b?style=for-the-badge&logo=apachetomcat&logoColor=C084FC" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Git-11111b?style=for-the-badge&logo=git&logoColor=C084FC" />
+<img src="https://img.shields.io/badge/GitHub-11111b?style=for-the-badge&logo=github&logoColor=C084FC" />
+<img src="https://img.shields.io/badge/GitHub_Actions-11111b?style=for-the-badge&logo=githubactions&logoColor=C084FC" />
 
 <br><br>
 
 ### Development & Data
 
-<img src="https://skillicons.dev/icons?i=python,postgres,fastapi&theme=dark" />
+<img src="https://img.shields.io/badge/Python-11111b?style=for-the-badge&logo=python&logoColor=C084FC" />
+<img src="https://img.shields.io/badge/PostgreSQL-11111b?style=for-the-badge&logo=postgresql&logoColor=C084FC" />
+<img src="https://img.shields.io/badge/FastAPI-11111b?style=for-the-badge&logo=fastapi&logoColor=C084FC" />
+<img src="https://img.shields.io/badge/IBM_DB2-11111b?style=for-the-badge&logo=ibm&logoColor=C084FC" />
 
 <br><br>
 
 ### Automation & Tools
 
-<img src="https://skillicons.dev/icons?i=bash,powershell,vscode,windows&theme=dark" />
+<img src="https://img.shields.io/badge/Bash-11111b?style=for-the-badge&logo=gnubash&logoColor=C084FC" />
+<img src="https://img.shields.io/badge/PowerShell-11111b?style=for-the-badge&logo=powershell&logoColor=C084FC" />
+<img src="https://img.shields.io/badge/VS_Code-11111b?style=for-the-badge&logo=visualstudiocode&logoColor=C084FC" />
 
 </div>
 
@@ -118,9 +131,9 @@ DevOps practices, CI/CD, cloud infrastructure and AI-assisted development as par
 
 ## Right now
 
-<table>
+<table width="100%">
 <tr>
-<td width="33%" valign="top">
+<td width="33.33%" valign="top">
 
 ### Working with
 
@@ -129,10 +142,9 @@ DevOps practices, CI/CD, cloud infrastructure and AI-assisted development as par
 - Containers
 - Databases
 - Networking
-- Troubleshooting
 
 </td>
-<td width="33%" valign="top">
+<td width="33.33%" valign="top">
 
 ### Developing
 
@@ -143,7 +155,7 @@ DevOps practices, CI/CD, cloud infrastructure and AI-assisted development as par
 - Software engineering
 
 </td>
-<td width="33%" valign="top">
+<td width="33.33%" valign="top">
 
 ### Exploring
 
