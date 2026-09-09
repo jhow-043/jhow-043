@@ -4,7 +4,7 @@
 
 <br>
 
-### Building reliable systems, automating repetitive work and learning what comes next.
+### Building reliable systems, simplifying operations and learning what comes next.
 
 <br>
 
@@ -24,13 +24,45 @@
 
 ## About me
 
-I’m **Jonathan V Reis**, a Support Analyst working close to infrastructure, systems administration and troubleshooting.
+I’m **Jonathan V Reis**, a Support Analyst with a background in systems and a growing focus on **DevOps, Cloud Infrastructure and Automation**.
 
-My day-to-day involves servers, operating systems, databases, networks, containers and application infrastructure. I’m especially interested in the point where **operations meets software**: making environments more reliable, reducing repetitive work and turning manual processes into automation.
+I enjoy working close to the infrastructure layer — understanding how environments behave, tracing failures to their root cause and improving the way systems are deployed, maintained and supported.
 
-My current path is focused on **DevOps, Cloud Engineering, Automation and Artificial Intelligence**.
+My day-to-day involves **Linux and Windows environments, containers, databases, networking, application infrastructure and troubleshooting**. What interests me most is the space between operations and software: using automation and engineering practices to make systems more reliable, predictable and easier to operate.
+
+Alongside technology, I’m also studying **Chemistry**, which reflects something I value a lot in general: understanding how things work from the inside out.
 
 <br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Education
+
+**Systems Analysis and Development**  
+Graduated
+
+**Chemistry**  
+In progress
+
+</td>
+<td width="50%" valign="top">
+
+### ✦ Direction
+
+**DevOps Engineering**  
+**Cloud Infrastructure**  
+**Automation**  
+**Artificial Intelligence**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## What I work with
 
 <table>
 <tr>
@@ -38,21 +70,21 @@ My current path is focused on **DevOps, Cloud Engineering, Automation and Artifi
 
 ### Infrastructure
 
-Linux and Windows environments, application servers, networking, reverse proxies, containers and production troubleshooting.
+Linux and Windows environments, containers, reverse proxies, application servers and production troubleshooting.
 
 </td>
 <td width="33%" valign="top">
 
 ### Automation
 
-Shell scripting, PowerShell, Python and practical automation for repetitive operational tasks.
+Shell scripting, PowerShell and Python applied to repetitive operational tasks and infrastructure routines.
 
 </td>
 <td width="33%" valign="top">
 
 ### Engineering
 
-Expanding from infrastructure into DevOps practices, cloud platforms, CI/CD and AI-assisted software development.
+DevOps practices, CI/CD, cloud infrastructure and AI-assisted development as part of my ongoing evolution.
 
 </td>
 </tr>
@@ -66,32 +98,19 @@ Expanding from infrastructure into DevOps practices, cloud platforms, CI/CD and 
 
 ### Infrastructure & Operations
 
-<img src="https://img.shields.io/badge/Linux-11111b?style=for-the-badge&logo=linux&logoColor=C084FC" />
-<img src="https://img.shields.io/badge/Oracle_Linux-11111b?style=for-the-badge&logo=oracle&logoColor=C084FC" />
-<img src="https://img.shields.io/badge/Windows_Server-11111b?style=for-the-badge&logo=windows11&logoColor=C084FC" />
-<img src="https://img.shields.io/badge/Docker-11111b?style=for-the-badge&logo=docker&logoColor=C084FC" />
-<img src="https://img.shields.io/badge/Nginx-11111b?style=for-the-badge&logo=nginx&logoColor=C084FC" />
-<img src="https://img.shields.io/badge/Tomcat-11111b?style=for-the-badge&logo=apachetomcat&logoColor=C084FC" />
+<img src="https://skillicons.dev/icons?i=linux,docker,nginx,git,github,githubactions&theme=dark" />
 
-<br>
+<br><br>
 
-### Data & Backend
+### Development & Data
 
-<img src="https://img.shields.io/badge/IBM_DB2-11111b?style=for-the-badge&logo=ibm&logoColor=C084FC" />
-<img src="https://img.shields.io/badge/PostgreSQL-11111b?style=for-the-badge&logo=postgresql&logoColor=C084FC" />
-<img src="https://img.shields.io/badge/SQL-11111b?style=for-the-badge&logo=databricks&logoColor=C084FC" />
-<img src="https://img.shields.io/badge/Python-11111b?style=for-the-badge&logo=python&logoColor=C084FC" />
-<img src="https://img.shields.io/badge/FastAPI-11111b?style=for-the-badge&logo=fastapi&logoColor=C084FC" />
+<img src="https://skillicons.dev/icons?i=python,postgres,fastapi&theme=dark" />
 
-<br>
+<br><br>
 
-### Automation & Tooling
+### Automation & Tools
 
-<img src="https://img.shields.io/badge/Bash-11111b?style=for-the-badge&logo=gnubash&logoColor=C084FC" />
-<img src="https://img.shields.io/badge/PowerShell-11111b?style=for-the-badge&logo=powershell&logoColor=C084FC" />
-<img src="https://img.shields.io/badge/Git-11111b?style=for-the-badge&logo=git&logoColor=C084FC" />
-<img src="https://img.shields.io/badge/GitHub_Actions-11111b?style=for-the-badge&logo=githubactions&logoColor=C084FC" />
-<img src="https://img.shields.io/badge/VS_Code-11111b?style=for-the-badge&logo=visualstudiocode&logoColor=C084FC" />
+<img src="https://skillicons.dev/icons?i=bash,powershell,vscode,windows&theme=dark" />
 
 </div>
 
@@ -101,37 +120,42 @@ Expanding from infrastructure into DevOps practices, cloud platforms, CI/CD and 
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### Working with
 
 - Systems support
-- Linux & Windows administration
-- Containers and application infrastructure
-- Databases and networking
-- Troubleshooting and automation
+- Infrastructure
+- Containers
+- Databases
+- Networking
+- Troubleshooting
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### Growing toward
+### Developing
 
-- DevOps Engineering
-- Cloud Infrastructure
-- CI/CD and platform automation
-- Software Engineering
-- Artificial Intelligence
+- DevOps workflows
+- CI/CD
+- Cloud infrastructure
+- Automation
+- Software engineering
+
+</td>
+<td width="33%" valign="top">
+
+### Exploring
+
+- AI-assisted development
+- Platform engineering
+- Infrastructure as Code
+- Observability
+- Scalable systems
 
 </td>
 </tr>
 </table>
-
-<br>
-
-## Education
-
-🎓 **Systems Analysis and Development** — graduated  
-🧪 **Chemistry** — in progress
 
 <br>
 
