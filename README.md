@@ -131,43 +131,53 @@ DevOps practices, CI/CD, cloud infrastructure and AI-assisted development as par
 
 ## Right now
 
-<table width="100%">
+<div align="center">
+
+<table>
 <tr>
-<td width="33.33%" valign="top">
+<td valign="top" align="left">
 
-### Working with
+<img width="290" src="https://img.shields.io/badge/WORKING_WITH-11111B?style=for-the-badge&labelColor=11111B&color=7C3AED" />
 
-- Systems support
-- Infrastructure
-- Containers
-- Databases
-- Networking
+<br>
 
-</td>
-<td width="33.33%" valign="top">
-
-### Developing
-
-- DevOps workflows
-- CI/CD
-- Cloud infrastructure
-- Automation
-- Software engineering
+• Systems support  
+• Infrastructure  
+• Containers  
+• Databases  
+• Networking  
 
 </td>
-<td width="33.33%" valign="top">
+<td valign="top" align="left">
 
-### Exploring
+<img width="290" src="https://img.shields.io/badge/DEVELOPING-11111B?style=for-the-badge&labelColor=11111B&color=A855F7" />
 
-- AI-assisted development
-- Platform engineering
-- Infrastructure as Code
-- Observability
-- Scalable systems
+<br>
+
+• DevOps workflows  
+• CI/CD  
+• Cloud infrastructure  
+• Automation  
+• Software engineering  
+
+</td>
+<td valign="top" align="left">
+
+<img width="290" src="https://img.shields.io/badge/EXPLORING-11111B?style=for-the-badge&labelColor=11111B&color=C084FC" />
+
+<br>
+
+• AI-assisted development  
+• Platform engineering  
+• Infrastructure as Code  
+• Observability  
+• Scalable systems  
 
 </td>
 </tr>
 </table>
+
+</div>
 
 <br>
 
