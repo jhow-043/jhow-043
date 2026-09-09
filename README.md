@@ -9,7 +9,7 @@
 <br>
 
 <a href="https://www.linkedin.com/in/jonathan-vieira-reis-b093711b2/">
-  <img src="https://img.shields.io/badge/LinkedIn-11111b?style=for-the-badge&logo=linkedin&logoColor=C084FC" />
+  <img src="https://img.shields.io/badge/LinkedIn-11111b?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0NDggNTEyIj4KPHBhdGggZmlsbD0iI0MwODRGQyIgZD0iTTEwMC4yOCA0NDhINy40VjE0OC45aDkyLjg4em0tNDYuNDktMzQwLjdDMjQuMDkgMTA3LjMgMCA4My4yIDAgNTMuNkE1My42IDUzLjYgMCAwIDEgNTMuNzkgMGMyOS43IDAgNTMuNzkgMjQuMSA1My43OSA1My42IDAgMjkuNi0yNC4wOSA1My43LTUzLjc5IDUzLjd6TTQ0Ny45IDQ0OGgtOTIuNjhWMzAyLjRjMC0zNC43LS43LTc5LjItNDguMjktNzkuMi00OC4yOSAwLTU1LjY5IDM3LjctNTUuNjkgNzYuN1Y0NDhoLTkyLjc4VjE0OC45aDg5LjA4djQwLjhoMS4zYzEyLjQtMjMuNSA0Mi42OS00OC4zIDg3Ljg4LTQ4LjMgOTQgMCAxMTEuMjggNjEuOSAxMTEuMjggMTQyLjNWNDQ4eiIvPgo8L3N2Zz4%3D" />
 </a>
 <a href="mailto:jhowworks.ti@gmail.com">
   <img src="https://img.shields.io/badge/Email-11111b?style=for-the-badge&logo=gmail&logoColor=C084FC" />
@@ -93,37 +93,7 @@ DevOps practices, CI/CD, cloud infrastructure and AI-assisted development as par
 
 <div align="center">
 
-### Infrastructure & Operations
-
-<img src="https://img.shields.io/badge/Linux-11111b?style=for-the-badge&logo=linux&logoColor=C084FC" />
-<img src="https://img.shields.io/badge/Oracle_Linux-11111b?style=for-the-badge&logo=oracle&logoColor=C084FC" />
-<img src="https://img.shields.io/badge/Windows_Server-11111b?style=for-the-badge&logo=windows11&logoColor=C084FC" />
-<img src="https://img.shields.io/badge/Docker-11111b?style=for-the-badge&logo=docker&logoColor=C084FC" />
-<img src="https://img.shields.io/badge/Nginx-11111b?style=for-the-badge&logo=nginx&logoColor=C084FC" />
-<img src="https://img.shields.io/badge/Tomcat-11111b?style=for-the-badge&logo=apachetomcat&logoColor=C084FC" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Git-11111b?style=for-the-badge&logo=git&logoColor=C084FC" />
-<img src="https://img.shields.io/badge/GitHub-11111b?style=for-the-badge&logo=github&logoColor=C084FC" />
-<img src="https://img.shields.io/badge/GitHub_Actions-11111b?style=for-the-badge&logo=githubactions&logoColor=C084FC" />
-
-<br><br>
-
-### Development & Data
-
-<img src="https://img.shields.io/badge/Python-11111b?style=for-the-badge&logo=python&logoColor=C084FC" />
-<img src="https://img.shields.io/badge/PostgreSQL-11111b?style=for-the-badge&logo=postgresql&logoColor=C084FC" />
-<img src="https://img.shields.io/badge/FastAPI-11111b?style=for-the-badge&logo=fastapi&logoColor=C084FC" />
-<img src="https://img.shields.io/badge/IBM_DB2-11111b?style=for-the-badge&logo=ibm&logoColor=C084FC" />
-
-<br><br>
-
-### Automation & Tools
-
-<img src="https://img.shields.io/badge/Bash-11111b?style=for-the-badge&logo=gnubash&logoColor=C084FC" />
-<img src="https://img.shields.io/badge/PowerShell-11111b?style=for-the-badge&logo=powershell&logoColor=C084FC" />
-<img src="https://img.shields.io/badge/VS_Code-11111b?style=for-the-badge&logo=visualstudiocode&logoColor=C084FC" />
+<img src="https://skillicons.dev/icons?i=linux,aws,python,docker,postgres&theme=dark" />
 
 </div>
 
